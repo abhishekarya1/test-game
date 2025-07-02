@@ -8,3 +8,6 @@ A simple 2D demo game built with [Love2D](https://love2d.org/) by following this
 - camera that follows the player
 - world collision physics
 - sound effects and loop background music
+
+## Gameplay Demo
+![](output/recording.gif)
